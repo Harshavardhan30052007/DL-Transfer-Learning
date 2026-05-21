@@ -309,5 +309,3 @@ Thus the python program to develop an image classification model using transfer 
 
 
 
-## RESULT
-Thus the python program to develop an image classification model using transfer learning with VGG19 architecture is executed successfully.
